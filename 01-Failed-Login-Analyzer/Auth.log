@@ -1,0 +1,8 @@
+Oct 04 21:03:12 server sshd[2211]: Failed password for admin from 192.168.1.45 port 51122 ssh2
+Oct 04 21:03:19 server sshd[2212]: Failed password for root from 10.0.0.25 port 49102 ssh2
+Oct 04 21:03:24 server sshd[2213]: Failed password for admin from 192.168.1.45 port 51130 ssh2
+Oct 04 21:04:01 server sshd[2214]: Accepted password for francis from 192.168.1.10 port 49820 ssh2
+Oct 04 21:04:17 server sshd[2215]: Failed password for root from 192.168.1.45 port 51201 ssh2
+Oct 04 21:05:31 server sshd[2216]: Failed password for admin from 172.16.0.8 port 53221 ssh2
+Oct 04 21:06:04 server sshd[2217]: Failed password for root from 192.168.1.45 port 51302 ssh2
+Oct 04 21:06:19 server sshd[2218]: Failed password for root from 192.168.1.45 port 51341 ssh2
